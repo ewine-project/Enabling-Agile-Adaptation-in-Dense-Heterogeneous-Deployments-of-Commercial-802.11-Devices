@@ -40,7 +40,7 @@ the overall network is able to dynamically adapt to varying channel and traffic 
 >Further details can be found in the published paper: http://nitlab.inf.uth.gr/NITlab/papers/Spectrum_ICC_submit.pdf
 
 ## Dataset
-The measurement corresponding to a period of one month 12/05/16 - 16/16/16 can be in the files section. In addition, In each row, measurements are organized by the DC values as measured per MHz along with a datetime timestamp.
+The measurement corresponding to a period of one month 12/05/16 - 16/16/16 can be in the dropbox link (https://www.dropbox.com/s/mfmje0a48aqvzn0/2016_2_15_24GHz_db.sql?dl=0). In addition, In each row, measurements are organized by the DC values as measured per MHz along with a datetime timestamp.
 
 # Contact
 adnan.shahid@ugent.be

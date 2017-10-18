@@ -35,3 +35,5 @@ transparent to the end-users band steering and client roaming. Through the devel
 the overall network is able to dynamically adapt to varying channel and traffic conditions.
 
 ![Alt text](https://user-images.githubusercontent.com/24733570/31709158-6cfa87e6-b3f1-11e7-9b58-20272b1762ed.jpg)
+
+> Further details can be found in the published paper: http://nitlab.inf.uth.gr/NITlab/papers/Spectrum_ICC_submit.pdf
